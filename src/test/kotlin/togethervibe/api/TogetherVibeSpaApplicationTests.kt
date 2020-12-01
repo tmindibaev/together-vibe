@@ -1,4 +1,4 @@
-package togethervibe.togethervibespa
+package togethervibe.togethervibeapi
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
