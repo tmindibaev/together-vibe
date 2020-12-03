@@ -1,1 +1,1 @@
-rootProject.name = "together-vibe-spa"
+rootProject.name = "together-vibe-api"

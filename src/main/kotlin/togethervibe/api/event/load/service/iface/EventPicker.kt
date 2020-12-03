@@ -1,6 +1,6 @@
-package togethervibe.api.event.load.service.`interface`
+package togethervibe.api.event.load.service.iface
 
-import togethervibe.api.event.load.data.Event
+import event.data.Event
 
 interface EventPicker {
 

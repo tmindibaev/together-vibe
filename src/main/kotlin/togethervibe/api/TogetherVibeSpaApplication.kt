@@ -1,4 +1,4 @@
-package togethervibe.togethervibeapi
+package togethervibe.api
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
